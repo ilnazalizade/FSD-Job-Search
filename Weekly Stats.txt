@@ -4,10 +4,10 @@ Weekly State
 Week1
 ----
 
-PpI Contacted PpI Responded  Job Apps Submitted  Interview or testing  Job Offers received      Job or Internship                        Company                                                                          Git URL (add senditaway@hotmail.com to access) 
+PpI Contacted PpI Responded  Job Apps Submitted  Interview or testing  Job Offers received      Job or Internship                        Company                                                                                                                                                  
  
-     3				3			     20					0					0 		       Job/Internship Full Stack Developer     spotify/Microsoft/Aplin/Actalent/ IBM/nteract Health/RedMane/Amazon/Shopify		  https://github.com/ilnazalizade/FSD-Job-Search.git
-                                                                                                                                      
+     3		3	      20		 0			0 		       Job/Internship Full Stack Developer     	 spotify/Microsoft/Aplin/Actalent/ IBM/nteract Health/RedMane/Amazon/Shopify	  
+                                                                                                                                         
                                                                                                                                       
                                                                                                                                       
                                                                                                                                      

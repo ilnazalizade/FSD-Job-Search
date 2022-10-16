@@ -9,6 +9,8 @@ PpI Contacted   PpI Responded     Job Apps Submitted      Interview or testing  
 
      3		  3	           20		           0			     0 		            Job/Internship                   spotify/Microsoft/Aplin                                                                                                             Full Stack Developer             RedMane/Amazon/Shopify
                                                                                                                                              IBM/nteract                                                                                                                    
+																	     
+																	     
     ____________________________________________________________________________________________________________________________________________________________
     
  Weekly State  

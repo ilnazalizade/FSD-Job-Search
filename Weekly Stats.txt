@@ -4,13 +4,20 @@ Weekly State
 Week1
 ----
 
-PpI Contacted   PpI Responded     Job Apps Submitted      Interview or testing      Job Offers received       Job or Internship                Company                                                                                                                                                  
+PpI Contacted   PpI Responded     Job Apps Submitted      Interview or testing      Job Offers received     Job or Internship                Company                                                                                                                                                  
  
 
+<<<<<<< HEAD
      3		  3	           20		           0			     0 		       Job/Internship Full Stack Developer    spotify/Microsoft/Aplin  
                                                                                                                        RedMane/Amazon/Shopify 
                                                                                                                        IBM/nteract                                                                                                                                                                           														      
 
+=======
+     3		  3	           20		           0			     0 		            Job/Internship                spotify/Microsoft/Aplin                                                                                                             Full Stack Developer            RedMane/Amazon/Shopify
+                                                                                                                                          IBM/nteract                                                                                                                    
+																	     
+																	     
+>>>>>>> a0697690d1172d3bbbb58bdea76a5f7a594b5b73
     ____________________________________________________________________________________________________________________________________________________________
     
  Weekly State  
@@ -19,6 +26,19 @@ PpI Contacted   PpI Responded     Job Apps Submitted      Interview or testing  
  Week2 
  ----
                                                                                                                                       
+<<<<<<< HEAD
       1          1                   5                       1 Intership             0                     Job/Internship                     Applicantz/Harris
 
+=======
+      1          1                  5                     1 Intership              0                     Job/Internship                     Applicantz/Harris
+                                                                                                        Full Stack Developer/Frontend       Kinaxisjpg/Tietoevry                                                                                                                                                       	            
+
+                                                                                                                                                                                                                                                          	                                                                                            
+                                                                                                                                                                              
+                                                                                                                                     
+                                                                                                              I                       
+                                                                                                                                      
+																											                    
+                                                                                                                                               
+>>>>>>> a0697690d1172d3bbbb58bdea76a5f7a594b5b73
 

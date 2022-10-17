@@ -6,13 +6,11 @@ Week1
 
 PpI Contacted   PpI Responded     Job Apps Submitted      Interview or testing      Job Offers received       Job or Internship                Company                                                                                                                                                  
  
-<<<<<<< HEAD
+
      3		  3	           20		           0			     0 		       Job/Internship Full Stack Developer    spotify/Microsoft/Aplin  
                                                                                                                        RedMane/Amazon/Shopify 
                                                                                                                        IBM/nteract                                                                                                                                                                           														      
-=======
-     3		  3	           20		           0			     0 		       Job/Internship Full Stack Developer    spotify/Microsoft/Aplin                                                                                                                                                 RedMane/Amazon/Shopify                             														     IBM/nteract 
->>>>>>> 2b6c5d1f3b09d2911f95ac16c4f85d46c3d169f3
+
     ____________________________________________________________________________________________________________________________________________________________
     
  Weekly State  
@@ -22,14 +20,5 @@ PpI Contacted   PpI Responded     Job Apps Submitted      Interview or testing  
  ----
                                                                                                                                       
       1          1                   5                       1 Intership             0                     Job/Internship                     Applicantz/Harris
-<<<<<<< HEAD
-                                                                                                          Full Stack Developer/Frontend       Kinaxisjpg/Tietoevry                                                                                                                                                       	            
-=======
-                                                                                                          Full Stack Developer/Frontend       Kinaxisjpg/                                                                                                                                                       	                                                                                            
-                                                                                                                                                                              
-                                                                                                                                     
-                                                                                                              I                       
-                                                                                                                                      
-																											                    
-                                                                                                                                               
->>>>>>> 2b6c5d1f3b09d2911f95ac16c4f85d46c3d169f3
+
+

@@ -4,39 +4,31 @@ Weekly State
 Week1
 ----
 
-<<<<<<< HEAD
-PpI Contacted   PpI Responded     Job Apps Submitted      Interview or testing      Job Offers received         in this, oportunities from networking          Job or Internship                Company                                                                                                                                                  
-=======
-PpI Contacted   PpI Responded     Job Apps Submitted      Interview or testing      Job Offers received    in this, oportunities from networking         Job or Internship             Company                                                                                                                                                  
->>>>>>> 0630379c9249a042fe1df7074067459fbb3c7cc6
+
+PpI Contacted   PpI Responded     Job Apps Submitted      Interview or testing      Job Offers received         in this, oportunities from networking          Job/Internship              Company                                                                                                                                              
+
  
-     3		   3	                 20		              0			     		                              0                                             Job/Internship               spotify/Microsoft/Aplin 
-                                                                                        0                                                                       Full Stack Developer                  
+     3		   3	                 20		              0			0     		                      0                               Job/Internship               spotify/Microsoft/Aplin 
+                                                                                                                                                             Full Stack Developer                  
                                                                                                                                                                                              RedMane/Amazon/Shopify 
                                                                                                                                                                                              IBM/nteract                                                                                                                                                                           														      
 
 
-
-<<<<<<< HEAD
-
-=======
-     3		  3	          20		           0			     0 		            0                                            Job/Internship             spotify/Microsoft/Aplin  
-                                                                                                                                                         Full Stack Developer        RedMane/Amazon/Shopify 
-                                                                                                                                                                                    IBM/nteract                                                                                                                                                                           														      
+                                                                                                                                                                     														      
 
 
     _______________________________________________________________________________________________________________________________________________________________________
     
->>>>>>> 0630379c9249a042fe1df7074067459fbb3c7cc6
+
  Weekly State  
 --------------------------------------------------
     
  Week2 
  ----
-<<<<<<< HEAD
 
 
-      1          1                   9                       1 Intership             0                           0                                                Job/Internship                Applicantz/Harris
+
+     2          2                  17                       1 Intership                 0                                   0                                     Job/Internship                Applicantz/Harris
                                                                                                                                                                   Full Stack
                                                                                                                                                                     Frontend                    GLI/IQVIA/TWO95
 
@@ -44,13 +36,5 @@ PpI Contacted   PpI Responded     Job Apps Submitted      Interview or testing  
                                                                                                               I                       
                                                                                                                                       
 
-=======
->>>>>>> 0630379c9249a042fe1df7074067459fbb3c7cc6
-
-
-      1          1                   9                       1 Intership             0                      0                                           Job/Inretship             Applicantz/Harris
-                                                                                                                                                        Full Stack                GLI/IQVIA/TWO95
-      												                                                        Frontend 
-																  
 
      

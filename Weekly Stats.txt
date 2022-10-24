@@ -28,7 +28,7 @@ PpI Contacted   PpI Responded     Job Apps Submitted      Interview or testing  
 
 
 
-     3          2                 21                     1 Intership                 0                                   0                                     Job/Internship                Applicantz/Harris
+     3          2                 21                     1 Intership                 2                                   0                                     Job/Internship                Applicantz/Harris
                                                                                                                                                                   Full Stack
                                                                                                                                                                     Frontend                    GLI/IQVIA/TWO95
 
@@ -40,7 +40,7 @@ Weekly State
  Week3 
  ----
  
-    2           1                 9                       1 Intership               1                                   0                                     Html/Css/Front                                                                                                                      
+    4           2                 13                       1 Intership               1                                   0                                     Html/Css/Front                                                                                                                      
                                                                                                               I                       
                                                                                                                                       
 
